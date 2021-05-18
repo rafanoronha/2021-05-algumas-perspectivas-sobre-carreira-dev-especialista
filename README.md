@@ -1,1 +1,3 @@
-# Slides de uma apresentação que coloca a carreira dev especialista em perspectiva
+# Algumas perspectivas sobre carreira dev especialista
+
+[Slides aqui](./Algumas%20perspectivas%20sobre%20carreira%20dev%20especialista.pdf)
